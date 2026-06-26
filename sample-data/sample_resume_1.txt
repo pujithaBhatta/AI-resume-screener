@@ -1,0 +1,39 @@
+John Doe
+john.doe@email.com | +91-9876543210 | LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Python Developer with 4+ years of expertise in building scalable web applications
+and RESTful APIs. Proficient in FastAPI, Django, and modern cloud technologies.
+
+SKILLS
+Programming Languages: Python, JavaScript, SQL, Bash
+Frameworks: FastAPI, Django, Flask, React.js, Node.js
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, GitHub Actions, CI/CD
+Machine Learning: Scikit-Learn, Pandas, NumPy, TensorFlow
+Tools: Git, GitHub, Jira, Confluence, Postman
+
+EXPERIENCE
+
+Senior Software Engineer | TechCorp India Pvt Ltd | Jan 2022 - Present
+- Architected and built RESTful APIs using FastAPI serving 50,000+ daily requests
+- Reduced API response time by 40% through Redis caching and query optimization
+- Led migration of monolithic app to microservices architecture on AWS
+- Mentored 3 junior developers and conducted weekly code reviews
+
+Software Engineer | StartupXYZ | Jun 2020 - Dec 2021
+- Developed Django backend for e-commerce platform handling 10,000+ products
+- Built CI/CD pipelines using GitHub Actions, reducing deployment time by 60%
+- Integrated PostgreSQL and MongoDB for hybrid data storage needs
+- Collaborated with React.js frontend team to design and document REST APIs
+
+EDUCATION
+B.Tech in Computer Science | IIT Hyderabad | 2020 | GPA: 8.5/10
+
+PROJECTS
+AI Resume Screener - Built NLP-based resume ranking tool using spaCy and BERT
+E-commerce API - High-performance FastAPI backend with 99.9% uptime
+
+CERTIFICATIONS
+AWS Certified Solutions Architect (2023)
+MongoDB Professional Developer (2022)

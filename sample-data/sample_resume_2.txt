@@ -1,0 +1,22 @@
+Priya Sharma
+priya.sharma@gmail.com | 9988776655
+
+Summary: Fresh graduate with strong Python fundamentals and internship experience.
+Eager to grow as a backend developer.
+
+Technical Skills: Python, Django, MySQL, HTML, CSS, JavaScript, Git
+
+Education:
+B.E Computer Science - Osmania University - 2023 - CGPA 7.8
+
+Internship Experience:
+Python Developer Intern | Infosys | May 2023 - Aug 2023
+- Developed REST APIs using Django REST Framework
+- Worked on database design and MySQL queries
+- Participated in agile scrum ceremonies
+
+Projects:
+Library Management System - Django + MySQL web application
+Student Portal - Python Flask + SQLite CRUD application
+
+Hobbies: Reading tech blogs, Open source contributions

@@ -1,0 +1,35 @@
+Job Title: Senior Python Developer
+
+Company: TechVision Solutions
+
+About the Role:
+We are seeking a talented Senior Python Developer to join our growing backend engineering team.
+You will design, build, and maintain high-performance APIs and microservices that power our
+SaaS platform used by 100,000+ customers globally.
+
+Requirements:
+- 3+ years of Python development experience
+- Strong experience with FastAPI or Django REST Framework
+- Proficiency in relational databases: PostgreSQL or MySQL
+- Experience with NoSQL databases: MongoDB or Redis
+- Hands-on experience with Docker and container orchestration (Kubernetes)
+- Solid understanding of REST API design principles
+- Experience with cloud platforms: AWS, GCP, or Azure
+- Proficiency in Git version control and CI/CD pipelines
+- Experience with unit testing and TDD practices
+
+Nice to Have:
+- Knowledge of machine learning libraries (scikit-learn, TensorFlow)
+- Experience with message brokers (RabbitMQ, Apache Kafka)
+- React.js frontend development skills
+- AWS certifications
+
+Key Responsibilities:
+- Design and implement scalable microservices using FastAPI
+- Write clean, well-documented Python code with 80%+ test coverage
+- Optimize database queries and API performance
+- Participate in system design discussions and architecture decisions
+- Collaborate with data science team on ML model deployment
+- Mentor junior developers through code reviews
+
+Required Skills: Python, FastAPI, Django, Docker, Kubernetes, PostgreSQL, MongoDB, AWS, Git, REST API, Redis, CI/CD
